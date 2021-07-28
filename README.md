@@ -6,6 +6,8 @@ https://github.com/kfoofw/bandit_simulations/blob/master/python/multiarmed_bandi
 
 
 An interesting article you might like if in case you liked RL :)
+
+
 https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI
 
 
